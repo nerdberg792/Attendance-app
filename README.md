@@ -3,10 +3,10 @@ I have made this simple attandence tracker app as on my first projects ever . Of
 
 
 ## Todos for this project (for future reference)
-⋅⋅*Making the UI look better 
-⋅⋅*Indentifying and fixing bugs 
-⋅⋅*Switching to TS 
-⋅⋅*Switching to a more efficient sql database 
+⋅⋅* Making the UI look better <br>
+⋅⋅* Indentifying and fixing bugs <br>
+⋅⋅* Switching to TS <br>
+⋅⋅* Switching to a more efficient sql database <br>
 
 
 ## Frontend 
